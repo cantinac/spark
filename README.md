@@ -1,3 +1,5 @@
+![Spark Logo](https://raw.github.com/cantinac/spark/master/assets/spark@2x.png)
+
 Spark, the Cantina electronics club
 ===================================
 
