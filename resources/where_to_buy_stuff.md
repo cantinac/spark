@@ -31,7 +31,7 @@ Online
 Brick & Mortar
 --------------
 
-### You Do It Electornics
+### You Do It Electronics
 
 http://www.youdoitelectronics.com/
 40 Franklin St.
