@@ -1,6 +1,8 @@
 Basic electronics tools
 =======================
 
+**A quick note**: if you're looking to get started from scratch, [Lady Ada's Electronics Toolkit](http://www.adafruit.com/products/136) is a great way to bootstrap your toolset. This kit has many of the basics, including a complete set of basic soldering tools, a decent multimeter, and a Panavise Jr, all for just $100.
+
 The raw basics
 --------------
 
