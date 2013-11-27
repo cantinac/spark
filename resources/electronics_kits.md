@@ -22,6 +22,10 @@ The other type of basic kit commonly found is more free-form, and is often built
 
 ![Braun Lectron (makezine)](http://makezineblog.files.wordpress.com/2011/12/braun-lectron-03-614x614.jpg?w=620&h=620)
 
+Another classic in this realm is the [Gakken EX-system](http://en.wikipedia.org/wiki/Gakken_EX-System) and its little denshi blocks.
+
+![denshi blocks (wikipedia)](http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Denshi_blocks.jpg/800px-Denshi_blocks.jpg)
+
 In the intervening years new tinkering-friendly kits have appeared, such as the fairly recent [littleBits](http://littlebits.cc) and the [Cubelets](http://www.modrobotics.com/) modular robotics system.
 
 And that's not all. There are many other kit-type and modular system out there that will help you to explore electornics. And many of there are designed to plug into slightly more maker-oriented systems. For example, the TinkerKit series of components is designed to work standalone or with Arduino and other microcontrollers, bridging the gap between the higher abstraction and ease of use of most kits with the closer-to-the-metal ethos found in microcontroller-driven projects.
