@@ -20,7 +20,7 @@ These little spring-loaded beauties let you created tens or hundreds of electron
 
 The other type of basic kit commonly found is more free-form, and is often built around discrete, interconnecting components. Classic systems, such as the incredibly well-designed [Braun Lectron](http://makezine.com/2011/12/08/the-braun-lectron-system-retro-circuit-dominoes/), allowed you to explore by connecting components.
 
-~[Braun Lectron (makezine)](http://makezineblog.files.wordpress.com/2011/12/braun-lectron-03-614x614.jpg?w=620&h=620)
+![Braun Lectron (makezine)](http://makezineblog.files.wordpress.com/2011/12/braun-lectron-03-614x614.jpg?w=620&h=620)
 
 In the intervening years new tinkering-friendly kits have appeared, such as the fairly recent [littleBits](http://littlebits.cc) and the [Cubelets](http://www.modrobotics.com/) modular robotics system.
 
