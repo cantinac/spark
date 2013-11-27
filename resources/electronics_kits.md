@@ -35,4 +35,27 @@ Kits for one and all
 
 There are kits for all skills levels and ages. Some systems require a bit more skill than others to use, while others are designed to make exploration, experimentation and fun easy and safe.
 
-TODO - start adding to the kit list!
+The kits!
+---------
+
+### LightUp
+
+[http://www.lightup.io/](http://www.lightup.io/)
+
+LightUp is a really new platform. In fact, they haven't even started shipping yet! This system has similarities to Braun Lectron and Gakken desnhi blocks, with a megnet-based, snap together style. These will be intersting to watch
+
+### littleBits
+
+[http://littlebits.cc/](http://littlebits.cc/)
+
+littleBits are a simple, snap-together system designed to let you explore some of the cooler things you can do without electronics, without having to get to deep into the assembly aspects of building projects.
+
+With a host of Bits modules, the littleBits system has a lot to offer. Like many systems of its type, littleBits does have some limitations, but for a basic "how do I get things connected up and working quick" sort of thing, they're pretty cool.
+
+### TinkerKit
+
+[http://www.tinkerkit.com/](http://www.tinkerkit.com/)
+
+TinkerKit is another modular system. Unlike some of others presented here, TinkerKit is designed to bridge the kit/module approach with the closer-to-the-metal hobbyist gear. Specifically, TinkerKit is driven by the popular Arduino platform and combines the power of a microcontroller with the ease of use of a modular system.
+
+TinkerKit is a bit harder to use than some of the other modular systems. The main advantage is using it is the simplicity it brings when integrting Arduinos with sensor, drivers, and the like.
