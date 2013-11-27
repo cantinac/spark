@@ -31,6 +31,16 @@ Online
 Brick & Mortar
 --------------
 
+### You Do It Electornics
+
+http://www.youdoitelectronics.com/
+40 Franklin St.
+Needham, MA 02494
+(781) 449-1005
+
+This place is a classic. And they have more stuff than you'll ever know what to do with. Just go.
+
+
 ### Microcenter
 
 730 Memorial Drive
