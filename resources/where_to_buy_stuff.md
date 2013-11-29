@@ -24,6 +24,12 @@ Online
 
 [http://makershed.com](http://makershed.com)
 
+### Modern Device
+
+[http://moderndevice.com/](http://moderndevice.com/)
+
+Modern Device has a bunch of Arduino compatible boards, lots of sensors and more cool stuff!
+
 ### SparkFun
 
 [http://sparkfun.com](http://sparkfun.com)
